@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "git study-miaov",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingdogs/git-miaov.git"
+  },
+  "author": "codingdogs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingdogs/git-miaov/issues"
+  },
+  "homepage": "https://github.com/codingdogs/git-miaov#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
